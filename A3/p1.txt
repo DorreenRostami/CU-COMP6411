@@ -1,0 +1,7 @@
+{sam,26}.
+{jill,12}.
+{ahmad,17}.
+{ali,13}.
+{alex,7}.
+{chris,16}.
+{lisa,14}.

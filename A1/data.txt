@@ -1,0 +1,21 @@
+john,43,123 Apple street,514 428-3452
+,2,st,
+jay,,
+katya, 26,49 Queen Mary Road,309 234-7654
+ahmad,91,1888 Pepper Lane,
+katy,2a,here,514 428-3453
+kate,200,there,514 428-3453
+alex,20,here a!, 514 428-3453
+chris,25, New Ave. ,309 234-7657
+a,20,,309 234-765a
+josh,30,,657-4-67
+jay,,This-that St., 514 428-3422
+kevin4,25 ,,
+lisa, 30 ,here , 
+katie
+johnny,40 , ,   657-4567
+ali, ,       st. catherine     ,
+,
+demi, 35, That   Street  ,  
+jenny,27, ,
+benjamin,37,68 Hickory Lane, 917 555-4321
